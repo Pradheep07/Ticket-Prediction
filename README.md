@@ -90,5 +90,5 @@ Contributions are welcome! Please open issues or pull requests to:
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
-© 2025 Your Name. Developed with ♥ for predictive analytics.
+© 2025 Pradheep. Developed for predictive analytics.
 
