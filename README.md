@@ -4,9 +4,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Notebook](https://img.shields.io/badge/view-notebook-orange)](https://github.com/<your-username>/train-ticket-predictor/blob/main/Ticket_prediction.ipynb)
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<your-username>/train-ticket-predictor/main?urlpath=lab/tree/Ticket_prediction.ipynb)
-
+[![Notebook](https://img.shields.io/badge/view-notebook-orange)]
 A **machine learning** project to predict the confirmation status of Indian train tickets based on booking and journey details.
 
 ---
