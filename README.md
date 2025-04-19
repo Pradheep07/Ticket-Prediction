@@ -164,7 +164,7 @@ This project is licensed under the **MIT License** – see [LICENSE](LICENSE) fo
 
 ---
 
-© 2025 Your Name. Built with ❤️ and scikit-learn.
+© 2025 Pradheep. Built with scikit-learn.
 ```
 
 
